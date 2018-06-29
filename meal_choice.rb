@@ -1,5 +1,9 @@
 def meal_choice( meal = "meat")
  puts "#{meal}"
 end
+meal_choice("vegan")
 
-meal_choice
+# def say_hello(name="Ruby Programmer")
+#   puts "Hello #{name}!"
+# end
+# say_hello("Gabriela")
